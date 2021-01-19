@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+body{
+  background: #150485
+}
+
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+}
+
+.navbar{
+  margin: 0 50px 0 50px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.navbar .nav-item a{
+  justify-content: space-around;
+}
